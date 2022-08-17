@@ -124,4 +124,12 @@
   :root {
     --marquee-elms-displayed: 2;
   }
+
+  .modal-body {
+    display: block;
+  }
+
+  .modal-body .img-wrapper {
+    margin: auto;
+  }
 }
